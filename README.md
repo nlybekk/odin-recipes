@@ -1,2 +1,3 @@
 # odin-recipes
-This is a project made from "The Odin Project"
+This is a project made by me through the Odin project and will show what I've learned until now.
+Skills include, but not limited to: basic HTML, paragraphs and images.
